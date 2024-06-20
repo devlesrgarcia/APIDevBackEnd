@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aaVfGYSt5frdQlGAsGNVdajgTN8jitT7li7qMQ0D83U=",
+  "Hash": "mTamiDeo62UcNNhFJS1Q0ciLPU9li9SWf7YgW5SzACU=",
   "Source": "APIUsuario",
   "BasePath": "_content/APIUsuario",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "APIUsuario\\wwwroot",
       "Source": "APIUsuario",
-      "ContentRoot": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\ProjetoBack\\final\\APIUsuario\\APIUsuario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\APIFULL\\APIUsuario\\APIUsuario\\wwwroot\\",
       "BasePath": "_content/APIUsuario",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\ProjetoBack\\final\\APIUsuario\\APIUsuario\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\APIFULL\\APIUsuario\\APIUsuario\\wwwroot\\index.html",
       "SourceId": "APIUsuario",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\ProjetoBack\\final\\APIUsuario\\APIUsuario\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\APIFULL\\APIUsuario\\APIUsuario\\wwwroot\\",
       "BasePath": "_content/APIUsuario",
       "RelativePath": "index.html",
       "AssetKind": "All",

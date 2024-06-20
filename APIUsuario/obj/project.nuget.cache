@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgKV5aaUTQUsEcD/0Z/kehonzKjVMScEqOEjk+kXK3OQCMy8FmAXeXZfO+AqZugTBtmmkP4A/zSeeF+JFSTDfg==",
+  "dgSpecHash": "EO7bL2WiBdtBmeec4+pYMivWdxcNNinv+0cgD5kKTUa97a5dztJ0+qKxstcJSD/wn6JtENyHs6g9Yfw4jPwA5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\ProjetoBack\\final\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
+  "projectFilePath": "C:\\Users\\Segredo\\Desktop\\Curso\\C#\\APIFULL\\APIUsuario\\APIUsuario\\APIUsuario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Segredo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Segredo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -51,5 +51,16 @@
     "C:\\Users\\Segredo\\.nuget\\packages\\system.text.json\\9.0.0-preview.3.24172.9\\system.text.json.9.0.0-preview.3.24172.9.nupkg.sha512",
     "C:\\Users\\Segredo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Npgsql' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "libraryId": "Npgsql",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }
